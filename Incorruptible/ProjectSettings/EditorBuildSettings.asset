@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu/Main Menu.unity
+    guid: 38a9f19fe2b9efe4ea9b27610d804186
+  - enabled: 1
+    path: Assets/Main Menu/Options.unity
+    guid: e4d940c8350986f4ca19f8f464520057
+  - enabled: 1
+    path: Assets/Level 0/Level0.unity
+    guid: 640d8d4816d293c4da747a18657569c4
+  - enabled: 1
+    path: Assets/Respawn_Menu/Respawn_Menu.unity
+    guid: 2fd7220462974d94c988c676e8f305bb
+  - enabled: 1
+    path: Assets/Levels_Menu/Levels_Menu.unity
+    guid: f392ed85455de93458ee2a2ed76f8476
+  - enabled: 1
+    path: Assets/End_Level_Menu/Level_Finish_screen.unity
+    guid: 2fdc6aee552558643b18f196a97205da
+  - enabled: 1
+    path: Assets/Login_SignUp_Menu/LogIn_SignUp_Menu.unity
+    guid: 150474666d8f4fd47b4a57d6401522e3
+  - enabled: 1
+    path: Assets/Level 1/Level 1.unity
+    guid: 1b8102154f671b54a80e0b798b3fd90b
+  - enabled: 1
+    path: Assets/Level 2/Level2.unity
+    guid: 39c15c86a61c0c54ab80a7a2bd28d621
+  - enabled: 1
+    path: Assets/Score_Menu/Score.unity
+    guid: 8fcf300bde878244bb89bc6711655530
+  m_configObjects: {}
