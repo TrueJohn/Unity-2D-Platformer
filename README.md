@@ -1,1 +1,2 @@
-# Unity-2D-Platformer
+# Incorruptible
+A 2D platformer made by me in Unity using C#.
